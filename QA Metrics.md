@@ -8,7 +8,8 @@ This is a list of common parameters to track to understand the team's effectiven
 4. **Time to Test:** Tracks the average time taken to design, prepare, and execute test cases. Efficiency in this metric often correlates with experience and skill.
 5. **Defect distribution:** Defects classified by severity and  priority can help tune test strategy.
 
-Here are some metrics that can help evaluate automation testing efforts: 
+### Common Metrics for Test Automation
+
 1. **Bugs caught through automation**: The count and quality of bugs helps determine value that test automation brings to teams.
 2. **Bugs missed through automation**: Helps determint the direction in which automation should progress.
 3. **Automated Test Coverage**: Similar to test case coverage in manual testing, this metric measures the extent of the application tested by automated scripts versus the total application functionality.
